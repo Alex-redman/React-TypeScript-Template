@@ -12,7 +12,6 @@ The main goals were practicing React, TypeScript, SCSS modules, routing, state m
 ## Live Preview
 
 - [DEMO LINK](https://alex-redman.github.io/React-TypeScript-Template/)
-Make sure the link works in incognito mode.
 
 ---
 
